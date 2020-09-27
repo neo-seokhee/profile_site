@@ -1,0 +1,54 @@
+@font-face { font-family: 'GmarketSansLight'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansLight.woff') format('woff'); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'GmarketSansMedium'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff') format('woff'); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'GmarketSansBold'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansBold.woff') format('woff'); font-weight: normal; font-style: normal; }
+
+.card-container {
+    margin-top: 20px;
+}
+
+.card-detail {
+    background-color: #262626;
+    color: white;
+    padding: 30px 45px;
+    width: 500px;
+    margin: auto;
+}
+
+.card-category {
+    font-size: 13px;
+    background-color: inherit;   
+    font-family: GmarketSansLight;
+}
+
+.card-title{
+    font-size: 20px;
+    margin-top: 1.25vh;
+    background-color: inherit;   
+    font-family: GmarketSansMedium;
+}
+
+.card-summary{
+    font-size: 15px;
+    margin-top: 1vh;
+    background-color: inherit;   
+    color: gray;
+    font-family: GmarketSansLight;
+}
+
+.card-date{
+    font-size: 12px;
+    margin-top: 1vh;
+    background-color: inherit; 
+    color: gray;
+    font-family: GmarketSansLight;
+}
+
+.footer {
+    text-align: center;
+    font-size: 8pt;
+    margin-top: 30px;
+    margin-bottom: 150px;
+    font-family: GmarketSansMedium;
+    color: white;
+
+}
