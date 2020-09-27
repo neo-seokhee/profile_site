@@ -2,6 +2,18 @@
 @font-face { font-family: 'GmarketSansMedium'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff') format('woff'); font-weight: normal; font-style: normal; }
 @font-face { font-family: 'GmarketSansBold'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansBold.woff') format('woff'); font-weight: normal; font-style: normal; }
 
+.profile_img {
+}
+
+img {
+    display: block;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 280px;
+}
+
+
 .upper_container {
     width: 100%;
 }
@@ -10,7 +22,6 @@
     text-align: center;
     font-size: 12pt;
     font-family: GmarketSansLight;
-    margin-top: 20vh;
     line-height: 5vh;
     color: white;
 }
