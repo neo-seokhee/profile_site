@@ -1,1 +1,1 @@
-# React Pracice Project - Personal Profile Site
+# React Practice Project - Personal Profile Site
