@@ -23,14 +23,13 @@
     border-radius: 50%;
     vertical-align: middle;
     object-fit: contain;
-    opacity: 30%;
+    opacity: 0.3;
     transition: 0.3s;
 }
 
 .social img:hover {
-    opacity: 100%;
     transition: 0.3s;
-    object-fit: fill;
+    opacity: 1.0;
     transform: scale( 1.1 );
 }
 
