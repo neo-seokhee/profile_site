@@ -4,31 +4,33 @@
 
 .card-container {
     margin-top: 20px;
+    width: 100%;
 }
 
 .card-detail {
     background-color: #262626;
     color: white;
-    padding: 30px 45px;
-    width: 500px;
+    padding: 4vh 6vw;
+    width:80%;
+    max-width: 600px;
     margin: auto;
 }
 
 .card-category {
-    font-size: 13px;
+    font-size: 0.8rem;
     background-color: inherit;   
     font-family: GmarketSansLight;
 }
 
 .card-title{
-    font-size: 20px;
+    font-size: 1rem;
     margin-top: 1.25vh;
     background-color: inherit;   
     font-family: GmarketSansMedium;
 }
 
 .card-summary{
-    font-size: 15px;
+    font-size: 0.8rem;
     margin-top: 1vh;
     background-color: inherit;   
     color: gray;
@@ -36,7 +38,7 @@
 }
 
 .card-date{
-    font-size: 12px;
+    font-size: 0.7rem;
     margin-top: 1vh;
     background-color: inherit; 
     color: gray;
@@ -45,7 +47,7 @@
 
 .footer {
     text-align: center;
-    font-size: 8pt;
+    font-size: 0.8rem;
     margin-top: 30px;
     margin-bottom: 150px;
     font-family: GmarketSansMedium;

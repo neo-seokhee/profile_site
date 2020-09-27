@@ -10,19 +10,14 @@ img {
     margin-top: 80px;
     margin-left: auto;
     margin-right: auto;
-    width: 280px;
+    width: 100px;
 }
 
-
-.upper_container {
-    width: 100%;
-}
 
 .upper_title {
     text-align: center;
     font-size: 12pt;
     font-family: GmarketSansLight;
-    line-height: 5vh;
     color: white;
 }
 
@@ -38,7 +33,7 @@ img {
     margin-left: 10vw;
     margin-right: 10vw;;
     margin-bottom: 5vh;;
-    line-height: 3vh;
+    line-height: 4vh;
     color: #525252;
 }
 
