@@ -14,7 +14,8 @@ function Upper(){
     <div className="social">
         <a href="https://brunch.co.kr/@neolee91"><img src="https://github.com/neo-seokhee/profile_site/blob/master/src/Img/brunch.png?raw=true" /></a>
         <a href="https://www.instagram.com/neo_seokhee/"><img src="https://github.com/neo-seokhee/profile_site/blob/master/src/Img/insta.png?raw=true" /></a>
-        <a href="https://github.com/neo-seokhee"><img src="https://github.com/neo-seokhee/profile_site/blob/master/src/Img/insta.png?raw=true" /></a>                 
+        <a href="https://github.com/neo-seokhee"><img src="https://github.com/neo-seokhee/profile_site/blob/master/src/Img/github.png?raw=true" /></a>
+        <a href="https://www.linkedin.com/in/seokhee-lee-6a1b1960/"><img src="https://github.com/neo-seokhee/profile_site/blob/master/src/Img/linkedin.png?raw=true" /></a>                   
     </div>
 
         <h3 className="timeline">Timeline</h3>
