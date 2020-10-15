@@ -5,7 +5,7 @@ function Upper(){
     return <div className="upper_container">
 
         <div>
-           <img className="profile_img" src="https://github.com/neo-seokhee/profile_site/blob/master/src/Img/profile3.png?raw=true" />
+           <img className="profile_img" src="https://github.com/neo-seokhee/profile_site/blob/master/src/Img/profile2.png?raw=true" />
         </div>
 
         <h1 className="upper_title">Hello I'm<br/><span className="title_neo">NEO</span></h1>
